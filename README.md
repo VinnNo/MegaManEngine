@@ -6,7 +6,6 @@ __Features__
   * Book-matched variables and mechanics, found in the original game.
   * All Boss-Powers found in Megaman/Rockman 1-8, plus 
   * A proof-of-concept Boss (PharohMan), complete with a reusable AI system, Boss Intro event and Boss Defeated Event with modular Boss-Power inventory insertion.
-  *
 
 This is an expirimental clone of the original Megaman/Rockman game for NES.
 Uses physics variables pulled directly from the decompiled ROM, so as to be 
